@@ -1,0 +1,269 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.uno50yseis.com" resolutions="1x" timestamp="1625549505687">
+  <folder name="css">
+    <file name="site_global.css" crc="4155686394"/>
+    <file name="index.css" crc="143064853" ref="index"/>
+    <file name="nomq_index.css" crc="357434037" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u1219.php" crc="3926516464" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="aplicaciones-07.svg" crc="4090262857" seo="true" ref="index"/>
+    <file name="aplicaciones-07_poster_.png" crc="3898490054" ref="index"/>
+    <file name="aplicaciones-04-05.svg" crc="91681916" seo="true" ref="index"/>
+    <file name="aplicaciones-04-05_poster_.png" crc="112160638" ref="index"/>
+    <file name="aplicaciones_mesa-de-trabajo-1.svg" crc="361757117" seo="true" ref="index"/>
+    <file name="aplicaciones_mesa de trabajo 1_poster_.png" crc="285790821" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1343.png" crc="4243822165" ref="index"/>
+    <file name="u1343-r.png" crc="3919635373" ref="index"/>
+    <file name="u1516.png" crc="486789248" ref="index"/>
+    <file name="u1516-r.png" crc="3984839645" ref="index"/>
+    <file name="u1488.png" crc="396122930" ref="index"/>
+    <file name="u1488-r.png" crc="4113604675" ref="index"/>
+    <file name="u1460.png" crc="4092718788" ref="index"/>
+    <file name="u1460-r.png" crc="306398787" ref="index"/>
+    <file name="u1431.png" crc="4386742" ref="index"/>
+    <file name="u1431-r.png" crc="309646420" ref="index"/>
+    <file name="u709-4.png" crc="4039337007" ref="index"/>
+    <file name="u757-10.png" crc="484645655" ref="index"/>
+    <file name="img_6428.jpg" crc="19282982" ref="index"/>
+    <file name="aplicaciones-03.svg" crc="4269977274" seo="true" ref="index"/>
+    <file name="aplicaciones-03_poster_.png" crc="4058835444" ref="index"/>
+    <file name="u868-4.png" crc="3973563942" ref="index"/>
+    <file name="img_7156-crop-u892.jpg" crc="414477075" ref="index"/>
+    <file name="img_7434-crop-u1019.jpg" crc="144779001" ref="index"/>
+    <file name="img_8053-crop-u1045.jpg" crc="4280107213" ref="index"/>
+    <file name="img_8960-crop-u1071.jpg" crc="3776836823" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u1097.jpg" crc="4134140808" ref="index"/>
+    <file name="prisma color.jpg" crc="426611270" seo="true" ref="index"/>
+    <file name="img_7156-crop-u898.jpg" crc="16456966" ref="index"/>
+    <file name="img_7434-crop-u1027.jpg" crc="186424461" ref="index"/>
+    <file name="img_8053-crop-u1053.jpg" crc="4099012087" ref="index"/>
+    <file name="img_8960-crop-u1079.jpg" crc="3811928047" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u1105.jpg" crc="331971473" ref="index"/>
+    <file name="prisma color-crop-u1131.jpg" crc="362666486" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u799-4.png" crc="3899621720" ref="index"/>
+    <file name="u805-4.png" crc="4288569450" ref="index"/>
+    <file name="u847-4.png" crc="3950705176" ref="index"/>
+    <file name="u862-4.png" crc="3865908702" ref="index"/>
+    <file name="u808-4.png" crc="177245423" ref="index"/>
+    <file name="u811-4.png" crc="197337065" ref="index"/>
+    <file name="aplicaciones_mesa-de-trabajo-12.svg" crc="361757117" seo="true" ref="index"/>
+    <file name="aplicaciones_mesa de trabajo 1_poster_2.png" crc="285790821" ref="index"/>
+    <file name="aplicaciones-06.svg" crc="327295264" seo="true" ref="index"/>
+    <file name="aplicaciones-06_poster_.png" crc="479700346" ref="index"/>
+    <file name="u859-4.png" crc="4246525829" ref="index"/>
+    <file name="u1210-4.png" crc="4107299657" ref="index"/>
+    <file name="u1234.png" crc="3957722158" ref="index"/>
+    <file name="u1234-r.png" crc="242748823" ref="index"/>
+    <file name="u1234-m.png" crc="3996986161" ref="index"/>
+    <file name="u1234-fs.png" crc="4069202664" ref="index"/>
+    <file name="instagram_mesa-de-trabajo-1.svg" crc="48055366" seo="true" ref="index"/>
+    <file name="instagram_mesa de trabajo 1_poster_.png" crc="4047212576" ref="index"/>
+    <file name="u13432.png" crc="4243822165" ref="index"/>
+    <file name="u1343-r2.png" crc="3919635373" ref="index"/>
+    <file name="u15162.png" crc="486789248" ref="index"/>
+    <file name="u1516-r2.png" crc="3984839645" ref="index"/>
+    <file name="u14882.png" crc="396122930" ref="index"/>
+    <file name="u1488-r2.png" crc="4113604675" ref="index"/>
+    <file name="u14602.png" crc="4092718788" ref="index"/>
+    <file name="u1460-r2.png" crc="306398787" ref="index"/>
+    <file name="u14312.png" crc="4386742" ref="index"/>
+    <file name="u1431-r2.png" crc="309646420" ref="index"/>
+    <file name="u709-42.png" crc="4039337007" ref="index"/>
+    <file name="u757-102.png" crc="3963196986" ref="index"/>
+    <file name="u799-42.png" crc="3899621720" ref="index"/>
+    <file name="u805-42.png" crc="4288569450" ref="index"/>
+    <file name="u847-42.png" crc="3950705176" ref="index"/>
+    <file name="u808-42.png" crc="177245423" ref="index"/>
+    <file name="u811-42.png" crc="197337065" ref="index"/>
+    <file name="u859-42.png" crc="4246525829" ref="index"/>
+    <file name="u862-42.png" crc="3865908702" ref="index"/>
+    <file name="u868-42.png" crc="3973563942" ref="index"/>
+    <file name="img_7156-crop-u8922.jpg" crc="414477075" ref="index"/>
+    <file name="img_7434-crop-u10192.jpg" crc="144779001" ref="index"/>
+    <file name="img_8053-crop-u10452.jpg" crc="4280107213" ref="index"/>
+    <file name="img_8960-crop-u10712.jpg" crc="3776836823" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u10972.jpg" crc="4134140808" ref="index"/>
+    <file name="img_7156-crop-u8982.jpg" crc="16456966" ref="index"/>
+    <file name="img_7434-crop-u10272.jpg" crc="186424461" ref="index"/>
+    <file name="img_8053-crop-u10532.jpg" crc="4099012087" ref="index"/>
+    <file name="img_8960-crop-u10792.jpg" crc="3811928047" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u11052.jpg" crc="331971473" ref="index"/>
+    <file name="prisma color-crop-u11312.jpg" crc="362666486" ref="index"/>
+    <file name="u1210-42.png" crc="4107299657" ref="index"/>
+    <file name="u12342.png" crc="3957722158" ref="index"/>
+    <file name="u1234-r2.png" crc="242748823" ref="index"/>
+    <file name="u1234-m2.png" crc="3996986161" ref="index"/>
+    <file name="u1234-fs2.png" crc="4069202664" ref="index"/>
+    <file name="u13433.png" crc="4243822165" ref="index"/>
+    <file name="u1343-r3.png" crc="3919635373" ref="index"/>
+    <file name="u15163.png" crc="486789248" ref="index"/>
+    <file name="u1516-r3.png" crc="3984839645" ref="index"/>
+    <file name="u14883.png" crc="396122930" ref="index"/>
+    <file name="u1488-r3.png" crc="4113604675" ref="index"/>
+    <file name="u14603.png" crc="4092718788" ref="index"/>
+    <file name="u1460-r3.png" crc="306398787" ref="index"/>
+    <file name="u14313.png" crc="4386742" ref="index"/>
+    <file name="u1431-r3.png" crc="309646420" ref="index"/>
+    <file name="u709-43.png" crc="4039337007" ref="index"/>
+    <file name="u757-103.png" crc="3963196986" ref="index"/>
+    <file name="u799-43.png" crc="3899621720" ref="index"/>
+    <file name="u805-43.png" crc="328962772" ref="index"/>
+    <file name="u847-43.png" crc="140666978" ref="index"/>
+    <file name="u859-43.png" crc="4191607318" ref="index"/>
+    <file name="u862-43.png" crc="100212017" ref="index"/>
+    <file name="u808-43.png" crc="3933270791" ref="index"/>
+    <file name="u811-43.png" crc="46442238" ref="index"/>
+    <file name="u868-43.png" crc="3973563942" ref="index"/>
+    <file name="img_7156-crop-u8923.jpg" crc="414477075" ref="index"/>
+    <file name="img_7434-crop-u10193.jpg" crc="144779001" ref="index"/>
+    <file name="img_8053-crop-u10453.jpg" crc="4280107213" ref="index"/>
+    <file name="img_8960-crop-u10713.jpg" crc="3776836823" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u10973.jpg" crc="4134140808" ref="index"/>
+    <file name="img_7156-crop-u8983.jpg" crc="16456966" ref="index"/>
+    <file name="img_7434-crop-u10273.jpg" crc="186424461" ref="index"/>
+    <file name="img_8053-crop-u10533.jpg" crc="4099012087" ref="index"/>
+    <file name="img_8960-crop-u10793.jpg" crc="3811928047" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u11053.jpg" crc="331971473" ref="index"/>
+    <file name="prisma color-crop-u11313.jpg" crc="362666486" ref="index"/>
+    <file name="u1210-43.png" crc="4107299657" ref="index"/>
+    <file name="u12343.png" crc="3957722158" ref="index"/>
+    <file name="u1234-r3.png" crc="242748823" ref="index"/>
+    <file name="u1234-m3.png" crc="3996986161" ref="index"/>
+    <file name="u1234-fs3.png" crc="4069202664" ref="index"/>
+    <file name="u13434.png" crc="4243822165" ref="index"/>
+    <file name="u1343-r4.png" crc="3919635373" ref="index"/>
+    <file name="u15164.png" crc="486789248" ref="index"/>
+    <file name="u1516-r4.png" crc="3984839645" ref="index"/>
+    <file name="u14884.png" crc="396122930" ref="index"/>
+    <file name="u1488-r4.png" crc="4113604675" ref="index"/>
+    <file name="u14604.png" crc="4092718788" ref="index"/>
+    <file name="u1460-r4.png" crc="306398787" ref="index"/>
+    <file name="u14314.png" crc="4386742" ref="index"/>
+    <file name="u1431-r4.png" crc="309646420" ref="index"/>
+    <file name="u709-44.png" crc="4039337007" ref="index"/>
+    <file name="img_6428-u771-fr.jpg" crc="89337759" ref="index"/>
+    <file name="u757-104.png" crc="3963196986" ref="index"/>
+    <file name="u799-44.png" crc="3899621720" ref="index"/>
+    <file name="u805-44.png" crc="341593247" ref="index"/>
+    <file name="u847-44.png" crc="370973710" ref="index"/>
+    <file name="u859-44.png" crc="3907056389" ref="index"/>
+    <file name="u862-44.png" crc="3852851554" ref="index"/>
+    <file name="u808-44.png" crc="4164906917" ref="index"/>
+    <file name="u811-44.png" crc="323565984" ref="index"/>
+    <file name="u1210-44.png" crc="4107299657" ref="index"/>
+    <file name="u12344.png" crc="3957722158" ref="index"/>
+    <file name="u1234-r4.png" crc="242748823" ref="index"/>
+    <file name="u1234-m4.png" crc="3996986161" ref="index"/>
+    <file name="u1234-fs4.png" crc="4069202664" ref="index"/>
+    <file name="u868-44.png" crc="3973563942" ref="index"/>
+    <file name="img_7156-crop-u8924.jpg" crc="4034673368" ref="index"/>
+    <file name="img_7434-crop-u10194.jpg" crc="4150166917" ref="index"/>
+    <file name="img_8053-crop-u10454.jpg" crc="385362623" ref="index"/>
+    <file name="img_8960-crop-u10714.jpg" crc="3852584884" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u10974.jpg" crc="156061463" ref="index"/>
+    <file name="img_7156-crop-u8984.jpg" crc="16456966" ref="index"/>
+    <file name="img_7434-crop-u10274.jpg" crc="186424461" ref="index"/>
+    <file name="img_8053-crop-u10534.jpg" crc="4099012087" ref="index"/>
+    <file name="img_8960-crop-u10794.jpg" crc="3811928047" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u11054.jpg" crc="331971473" ref="index"/>
+    <file name="prisma color-crop-u11314.jpg" crc="362666486" ref="index"/>
+    <file name="u13435.png" crc="4243822165" ref="index"/>
+    <file name="u1343-r5.png" crc="3919635373" ref="index"/>
+    <file name="u15165.png" crc="486789248" ref="index"/>
+    <file name="u1516-r5.png" crc="3984839645" ref="index"/>
+    <file name="u14885.png" crc="396122930" ref="index"/>
+    <file name="u1488-r5.png" crc="4113604675" ref="index"/>
+    <file name="u14605.png" crc="4092718788" ref="index"/>
+    <file name="u1460-r5.png" crc="306398787" ref="index"/>
+    <file name="u14315.png" crc="4386742" ref="index"/>
+    <file name="u1431-r5.png" crc="309646420" ref="index"/>
+    <file name="u709-45.png" crc="4039337007" ref="index"/>
+    <file name="u757-105.png" crc="3963196986" ref="index"/>
+    <file name="u1210-45.png" crc="4107299657" ref="index"/>
+    <file name="u12345.png" crc="3957722158" ref="index"/>
+    <file name="u1234-r5.png" crc="242748823" ref="index"/>
+    <file name="u1234-m5.png" crc="3996986161" ref="index"/>
+    <file name="u1234-fs5.png" crc="4069202664" ref="index"/>
+    <file name="u868-45.png" crc="3973563942" ref="index"/>
+    <file name="img_7156-crop-u8925.jpg" crc="226446653" ref="index"/>
+    <file name="img_7434-crop-u10195.jpg" crc="293294873" ref="index"/>
+    <file name="img_8053-crop-u10455.jpg" crc="3796356913" ref="index"/>
+    <file name="img_8960-crop-u10715.jpg" crc="422399168" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u10975.jpg" crc="18491014" ref="index"/>
+    <file name="prisma color-crop-u1123.jpg" crc="3829288927" ref="index"/>
+    <file name="img_7156-crop-u8985.jpg" crc="16456966" ref="index"/>
+    <file name="img_7434-crop-u10275.jpg" crc="186424461" ref="index"/>
+    <file name="img_8053-crop-u10535.jpg" crc="4099012087" ref="index"/>
+    <file name="img_8960-crop-u10795.jpg" crc="3811928047" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u11055.jpg" crc="331971473" ref="index"/>
+    <file name="prisma color-crop-u11315.jpg" crc="362666486" ref="index"/>
+    <file name="u799-45.png" crc="3899621720" ref="index"/>
+    <file name="u805-45.png" crc="341593247" ref="index"/>
+    <file name="u847-45.png" crc="370973710" ref="index"/>
+    <file name="u859-45.png" crc="3907056389" ref="index"/>
+    <file name="u811-45.png" crc="323565984" ref="index"/>
+    <file name="u808-45.png" crc="4164906917" ref="index"/>
+    <file name="u862-45.png" crc="3852851554" ref="index"/>
+    <file name="u13436.png" crc="4243822165" ref="index"/>
+    <file name="u1343-r6.png" crc="3919635373" ref="index"/>
+    <file name="u15166.png" crc="486789248" ref="index"/>
+    <file name="u1516-r6.png" crc="3984839645" ref="index"/>
+    <file name="u14886.png" crc="396122930" ref="index"/>
+    <file name="u1488-r6.png" crc="4113604675" ref="index"/>
+    <file name="u14606.png" crc="4092718788" ref="index"/>
+    <file name="u1460-r6.png" crc="306398787" ref="index"/>
+    <file name="u14316.png" crc="4386742" ref="index"/>
+    <file name="u1431-r6.png" crc="309646420" ref="index"/>
+    <file name="u709-46.png" crc="3888969233" ref="index"/>
+    <file name="img_6428-u771-fr2.jpg" crc="517651523" ref="index"/>
+    <file name="u757-106.png" crc="404265833" ref="index"/>
+    <file name="u868-46.png" crc="3973563942" ref="index"/>
+    <file name="img_7156-crop-u8926.jpg" crc="3891731999" ref="index"/>
+    <file name="img_7434-crop-u10196.jpg" crc="379160349" ref="index"/>
+    <file name="img_8053-crop-u10456.jpg" crc="3930615474" ref="index"/>
+    <file name="img_8960-crop-u10716.jpg" crc="534970187" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u10976.jpg" crc="377074391" ref="index"/>
+    <file name="prisma color-crop-u11232.jpg" crc="4034539549" ref="index"/>
+    <file name="img_7156-crop-u8986.jpg" crc="3937151402" ref="index"/>
+    <file name="img_7434-crop-u10276.jpg" crc="161491058" ref="index"/>
+    <file name="img_8053-crop-u10536.jpg" crc="420083228" ref="index"/>
+    <file name="img_8960-crop-u10796.jpg" crc="123433627" ref="index"/>
+    <file name="mascotas allisson vega 3-2 equilibrio-crop-u11056.jpg" crc="462449631" ref="index"/>
+    <file name="prisma color-crop-u11316.jpg" crc="492199524" ref="index"/>
+    <file name="u799-46.png" crc="3899621720" ref="index"/>
+    <file name="u805-46.png" crc="341593247" ref="index"/>
+    <file name="u847-46.png" crc="370973710" ref="index"/>
+    <file name="u859-46.png" crc="3907056389" ref="index"/>
+    <file name="u862-46.png" crc="3852851554" ref="index"/>
+    <file name="u811-46.png" crc="323565984" ref="index"/>
+    <file name="u808-46.png" crc="4164906917" ref="index"/>
+    <file name="u1210-46.png" crc="4107299657" ref="index"/>
+    <file name="u12346.png" crc="3957722158" ref="index"/>
+    <file name="u1234-r6.png" crc="242748823" ref="index"/>
+    <file name="u1234-m6.png" crc="3996986161" ref="index"/>
+    <file name="u1234-fs6.png" crc="4069202664" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3780880632" seo="true" mt="1625352982802" redirect="true"/>
+</manifest>
